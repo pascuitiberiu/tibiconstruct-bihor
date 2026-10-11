@@ -19,7 +19,7 @@ const translations = {
     service6Title: 'Sitt eltakarítása és elszállítása', service6Text: 'A felújítás során keletkező sitt összegyűjtése, rakodása és elszállítása, hogy folytatódhasson a munka.',
     workEyebrow: '02 / REFERENCIÁINK', workTitle: 'Munkáink\nképekben.', workIntro: 'Házak, belső terek és burkolati részletek. Saját munkáink fotói, a kivitelezés közbeni pillanatoktól a végeredményig.',
     filterLabel: 'Fotók szűrése', filterAll: 'Összes', filterExterior: 'Kültér', filterInterior: 'Beltér és dekoráció', filterTiles: 'Burkolás',
-    galleryHint: 'Kattints egy képre, és nézd meg nagyban a részleteket.', showAll: 'Mind a 28 fénykép megtekintése', showLess: 'Kevesebb kép',
+    galleryHint: 'Kattints egy képre, és nézd meg nagyban a részleteket.', showAll: 'Mind a 33 fénykép megtekintése', showLess: 'Kevesebb kép',
     aboutEyebrow: '03 / TIBICONSTRUCT BIHOR S.R.L.', aboutTitle: 'A hozzáállásunk\na munkánkon látszik.',
     aboutText: 'Számunkra a jó munka többet jelent a szép végeredménynél. Gondos előkészítést, odafigyelést a részletekre és egyértelmű egyeztetést jelent, már az első beszélgetéstől. Arra törekszünk, hogy otthonod minden nap örömet adjon.',
     aboutCta: 'Beszéljünk az elképzelésedről',
